@@ -23,3 +23,5 @@ the full picture including MAC address, DHCP server, and lease times.
 **Q: What would you do if ipconfig shows a 169.254.x.x address?**
 That indicates DHCP failed. I'd run ipconfig /release then ipconfig /renew,
 then check the physical connection if that doesn't resolve it.
+
+<img width="830" height="768" alt="ipconfigall_blurred" src="https://github.com/user-attachments/assets/51014cb2-258f-478e-bfe2-232c5051151f" />
