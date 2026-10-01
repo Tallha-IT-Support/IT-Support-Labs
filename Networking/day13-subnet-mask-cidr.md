@@ -31,6 +31,8 @@ Being in the wrong EXEC mode, if commands were entered from user EXEC mode
 (Router>) instead of privileged EXEC mode (Router#), configuration changes
 may not actually apply, even though no error is obviously thrown.
 
-<img width="3072" height="4096" alt="2b43fde0-4d86-4569-9e7f-f4d88aa145f8" src="https://github.com/user-attachments/assets/74de55a0-51ed-4eb8-a375-646f6b3aa1e9" />
+<img width="2933" height="2683" alt="9d47af26-a6eb-4d21-b634-93e116aa628a" src="https://github.com/user-attachments/assets/74acd779-d8ef-4103-848d-c03003757108" />
+
+
 
 
