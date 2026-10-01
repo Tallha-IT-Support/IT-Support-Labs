@@ -1,0 +1,19 @@
+# Day 7 — Binary Number System & Conversion
+
+## Key Concepts
+Computers store everything in binary (base 2, using only 0 and 1). Each bit
+position represents a power of 2: 128-64-32-16-8-4-2-1 for a byte. IP addresses
+are really binary numbers written in human-friendly decimal format, so binary
+fluency is the foundation for subnetting.
+
+## Why It Matters
+CCNA and interview questions frequently ask you to convert an IP octet to
+binary on the spot, this is tested directly, not just theoretical.
+
+## Interview Q&A
+**Q: Convert 192 to binary.**
+11000000 — using the 128-64-32-16-8-4-2-1 place values, 192 = 128 + 64.
+
+**Q: Why does binary matter for IT support if tools do the conversion for you?**
+Understanding binary is what makes subnetting, IP troubleshooting, and CCNA
+questions actually make sense instead of feeling like memorized magic.
